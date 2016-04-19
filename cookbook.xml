@@ -1,0 +1,59 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?>
+<cookbook xmlns="http://www.example.com/cookbook" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.com/cookbook umair.xsd"> -->
+    <title>Angry Birds Bad Piggies’ Egg Recipes</title>
+    <author>Bonnier Kirjat Oy</author>
+    <recipe>
+        <recipename>Grilled Delight</recipename>
+        <ingredient>
+            <name>Egg</name>
+            <unit>10</unit>
+            <substitute>Yoghurt</substitute>
+        </ingredient>
+        <ingredient>
+            <name>Pepper</name>
+            <unit>to taste</unit>
+            <substitute>NA</substitute>
+        </ingredient>
+        <ingredient>
+            <name>Grated cheese</name>
+            <unit>500 gm</unit>
+            <substitute>NA</substitute>
+        </ingredient>
+        <ingredient>
+            <name>Butter</name>
+            <unit>NA</unit>
+            <substitute>NA</substitute>
+        </ingredient>
+        <instruction>Fire up an outdoor grill (outdoors please). Use a muffin pan: coat all cups with cooking spray and break one egg per cup. Try keep the yolks intact for a nice presenatation. Place the pan on the grill and cook for 2-3 minutes over the medium heat. Serve with mixed vegetables/salad.
+        </instruction>
+        <serves>4</serves>
+        <summary>Grilled Eggs</summary>
+    </recipe>
+    <recipe>
+        <recipename>Oven Made</recipename>
+        <ingredient>
+            <name>Eggs</name>
+            <unit>2</unit>
+            <substitute>NA</substitute>
+        </ingredient>
+        <ingredient>
+            <name>Cream</name>
+            <unit>teaspoon</unit>
+            <substitute>NA</substitute>
+        </ingredient>
+        <ingredient>
+            <name>Minced Chives</name>
+            <unit>teaspoon</unit>
+            <substitute>NA</substitute>
+        </ingredient>
+        <ingredient>
+            <name>Salt</name>
+            <unit>to taste</unit>
+            <substitute>NA</substitute>
+        </ingredient>
+        <instruction>Preheat the oven to 325F. Grease the inside of a ramekin with some butter. Pour the cream on the bottom of the ramekin. Break the eggs on the top of the cream without damaging the yolks. Add salt, pepper, chives and grated cheese. Bake for 12 to 15 minutes or until the whites have set(the yolks are still soft). Remove from oven and allow to set for 2 to 3 minutes before serving.
+        </instruction>
+        <serves>2</serves>
+        <summary>Oven Eggs</summary>
+    </recipe>
+</cookbook>
